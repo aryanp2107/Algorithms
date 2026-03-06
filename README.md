@@ -22,4 +22,4 @@ All notes are in a single PDF of handwritten content with pseudocode, worked exa
 
 ## Reference
 
-Based on coursework using *Algorithm Design* by Kleinberg & Tardos and *Introduction to Algorithms* (CLRS).
+Based on coursework using *Algorithm Design* by Kleinberg & Tardos
