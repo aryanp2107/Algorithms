@@ -10,9 +10,9 @@ Handwritten notes covering core algorithms and data structures — created durin
 
 **Sorting** — Bubble, insertion, selection, merge, quick, heap, counting, radix sort · Ω(n log n) lower bound
 
-**Graph Algorithms** — BFS, DFS, topological sort, SCCs, union-find, Dijkstra's, Prim's, Kruskal's, Bellman-Ford, Floyd-Warshall
+**Graph Algorithms** — BFS, DFS, topological sort, SCCs, union-find
 
-**Greedy** — Interval scheduling, coin change
+**Greedy** — Interval scheduling, coin change, Dijkstra's Algorithm, Prim's & Kruskal's Algorithm, Fractional Knapsack
 
 **Dynamic Programming** — Fibonacci, weighted interval scheduling, knapsack, grid paths, edit distance, LCS, shortest paths with negative edges, RNA secondary structure
 
