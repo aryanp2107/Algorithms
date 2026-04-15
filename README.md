@@ -16,7 +16,7 @@ Handwritten notes and practice sets from my CS500 Algorithms course.
 - NP-Completeness — P vs NP, 3-SAT, vertex cover, set cover, polynomial-time reductions
 
 ## References
-*There is this amazing podcast on Spotify from Prof. Dan Arena at Vanderbilt University that provided a intrinsic understanding of all the concepts. I understand the fact that it's a podcast, however I was able to visualize everything in my mind as he was elaborating it* <br>
+*There is this amazing podcast on Spotify from Prof. Dan Arena at Vanderbilt University that provided a intrinsic understanding of all the concepts. I understand the fact that it's a podcast, however I was able to visualize everything in my mind as he was elaborating it.* <br>
 *Link:* https://open.spotify.com/show/5TO4rkuk0e9Upi7IM4ZG5w
 
 *Algorithm Design* — Kleinberg & Tardos
