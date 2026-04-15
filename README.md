@@ -1,25 +1,21 @@
-# Algorithms Notes
+# Algorithms
 
-Handwritten notes covering core algorithms and data structures — created during my CS5800 course.
+Handwritten notes and practice sets from CS5800 at Northeastern University.
 
 ## Topics
 
-**Foundations** — Asymptotic notations (O, Ω, Θ, o, ω), recurrences, divide and conquer
+- Asymptotic Analysis — Big-O, Ω, Θ, o, ω and their properties
+- Data Structures — Arrays, linked lists, stacks, queues, heaps, priority queues, graphs
+- Sorting — Bubble, insertion, selection, merge, quick, heap, counting, radix sort
+- Divide & Conquer — Recurrences, recursion trees, Master theorem
+- Graph Algorithms — BFS, DFS, topological sort, SCCs, union-find
+- Greedy — Interval scheduling, Dijkstra's, Prim's, Kruskal's
+- Dynamic Programming — Fibonacci, knapsack, edit distance, LCS, weighted interval scheduling, grid paths, RNA secondary structure
+- Shortest Paths — Bellman-Ford, Floyd-Warshall
+- Network Flow — Max-flow / min-cut, Ford-Fulkerson
+- NP-Completeness — P vs NP, 3-SAT, vertex cover, set cover, polynomial-time reductions
 
-**Data Structures** — Arrays, linked lists, stacks, queues, heaps, priority queues, graphs
+## References
 
-**Sorting** — Bubble, insertion, selection, merge, quick, heap, counting, radix sort · Ω(n log n) lower bound
-
-**Graph Algorithms** — BFS, DFS, topological sort, SCCs, union-find
-
-**Greedy** — Interval scheduling, coin change, Dijkstra's Algorithm, Prim's & Kruskal's Algorithm, Fractional Knapsack
-
-**Dynamic Programming** — Fibonacci, weighted interval scheduling, knapsack, grid paths, edit distance, LCS, shortest paths with negative edges, RNA secondary structure
-
-## Structure
-
-All notes are in a single PDF of handwritten content with pseudocode, worked examples, complexity analysis, and correctness proofs.
-
-## Reference
-
-Based on coursework using *Algorithm Design* by Kleinberg & Tardos
+*Algorithm Design* — Kleinberg & Tardos
+*Introduction to Algorithms* — CLRS
