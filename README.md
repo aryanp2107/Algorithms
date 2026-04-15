@@ -19,5 +19,8 @@ Handwritten notes and practice sets from my CS500 Algorithms course.
 *There is this amazing podcast on Spotify from Prof. Dan Arena at Vanderbilt University that provided a intrinsic understanding of all the concepts. I understand the fact that it's a podcast, however I was able to visualize everything in my mind as he was elaborating it.* <br>
 *Link:* https://open.spotify.com/show/5TO4rkuk0e9Upi7IM4ZG5w
 
+*A great resource for NP-hard problems would be a video from MIT OpenCourseWare's MIT 6.046J on Youtube* <br>
+*Link:* https://www.youtube.com/watch?v=eHZifpgyH_4
+
 *Algorithm Design* — Kleinberg & Tardos
 *Introduction to Algorithms* — CLRS
